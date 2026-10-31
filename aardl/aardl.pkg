@@ -1,4 +1,14 @@
-D 'suradf': Series-specific SUR-ADF panel unit root test (Breuer, McNown and Wallace 2002) Use suradf With STATA 19
-F suradf.ado
-F suradf.sthlp
-F suradf_methods.sthlp
+D 'aardl': Augmented ARDL (Autoregressive Distributed Lag) cointegration analysis Use aardl With STATA 19
+F _aardl_advanced.ado
+F _aardl_bootstrap.ado
+F _aardl_diagtest.ado
+F _aardl_dynmult.ado
+F _aardl_fourier.ado
+F _aardl_graphs.ado
+F _aardl_samcv.ado
+F _aardl_stability.ado
+F _aardl_stars.ado
+F aardl.ado
+F aardl.sthlp
+F aardl_advanced.ado
+F aardl_p.ado
