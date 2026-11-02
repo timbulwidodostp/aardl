@@ -1,6 +1,8 @@
 # aardl
 Augmented ARDL (Autoregressive Distributed Lag) cointegration analysis Use aardl With STATA 19
 
+https://www.youtube.com/watch?v=fM7Nynxf6eA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
